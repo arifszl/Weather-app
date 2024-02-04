@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        daytime: "url('./src/assets/daytime.jpg')",
-        nighttime: "url('./src/assets/nighttime1.jpg')",
-        main: "url('./src/assets/cloud1.jpg')",
+        daytime: "url('./public/daytime.jpg')",
+        nighttime: "url('./public/nighttime1.jpg')",
+        main: "url('./public/cloud1.jpg')",
       },
     },
   },
